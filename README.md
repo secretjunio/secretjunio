@@ -43,6 +43,19 @@
            <img src="https://camo.githubusercontent.com/411b81729de3ca84a32d0a730e74ab0fcd554468721dd320d939b7c48a87d56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java Badge"/>
          </a>
   </div>
+  <b>Technology</b>
+  <div>
+  <a target="_blank" href="">
+             <img src="https://img.shields.io/badge/-RESTFUL%20API-blue" alt="API"/>
+          </a>
+  <a target="_blank" href="">
+             <img src="https://img.shields.io/badge/-MVC-yellowgreen" alt="MVC"/>
+          </a>
+  
+  <a target="_blank" href="">
+             <img src="https://img.shields.io/badge/-Clean%20Architechture-brightgreen" alt="Clean architecture"/>
+          </a>
+  </div>
   </br>
        <b>SQL</b>
        </br>
