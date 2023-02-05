@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></br>
+  <h1 style="color:green">VŨ VĂN THIÊN</h1>
+  <b>Hi, welcome to my profile, i'm a Full-stack Developer</b>
 </div>
 <div id="badges">
   <div align="center">
@@ -14,7 +16,7 @@
    <h1>ABOUT ME 😄</h1>
    <div>
      <b>My Skill & Progamming Laguages</b>
-     <ul style="list-tyle:none">
+     <ul style="list-tyle:none; display:inline-block">
        <b>Frontend</b>
        <li>
          <a target="_blank" href="">
@@ -37,13 +39,30 @@
          </a>
        </li>
      </ul>
+     <ul style="list-tyle:none; display:inline-block">
+       <b>Backend</b>
+       <li><a target="_blank" href="">
+           <img src="https://camo.githubusercontent.com/00f2446fa586c48d8c768cda8c43a001fa539866ca4c99a4f1fd251c64182579/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e4554253230436f72652d626c7565" alt=".NET Core"/>
+         </a>
+       </li>
+       <li><a target="_blank" href="">
+           <img src="https://camo.githubusercontent.com/411b81729de3ca84a32d0a730e74ab0fcd554468721dd320d939b7c48a87d56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java Badge"/>
+         </a>
+       </li>
+     </ul>
+     <ul>
+       <b>Backend</b>
+       <li><a target="_blank" href="">
+           <img src="https://camo.githubusercontent.com/00f2446fa586c48d8c768cda8c43a001fa539866ca4c99a4f1fd251c64182579/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e4554253230436f72652d626c7565" alt=".NET Core"/>
+         </a>
+       </li>
+       <li><a target="_blank" href="">
+           <img src="https://camo.githubusercontent.com/411b81729de3ca84a32d0a730e74ab0fcd554468721dd320d939b7c48a87d56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java Badge"/>
+         </a>
+       </li>
+     </ul>
    </div>
-   <div>
-   
-   </div>
-   <div>
-   
-   </div>
+  
  </div>
 <!--
 **secretjunio/secretjunio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
