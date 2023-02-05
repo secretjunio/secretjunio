@@ -53,6 +53,9 @@
           <a target="_blank" href="">
              <img src="https://camo.githubusercontent.com/966201d89eb1ede2fed9fc626ea31b05280c35ac01cf9080a38d0eea94e42e79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d79656c6c6f77677265656e" alt="MySql"/>
           </a>
+   <a target="_blank" href="">
+             <img src="https://img.shields.io/badge/-oracle-red" alt="MySql"/>
+          </a>
       </div>
    </div>
  
