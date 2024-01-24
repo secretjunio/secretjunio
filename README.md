@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></br>
   <h1 style="color:green">VŨ VĂN THIÊN</h1>
-  <b>Hi, welcome to my profile, i'm a Full-stack Developer</b>
+  <b>Hi, welcome to my profile, I'm a Full-stack Developer</b>
 </div>
 <div id="badges">
   <div align="center">
@@ -15,7 +15,7 @@
  <div class="main">
    <h1>ABOUT ME 😄</h1>
    <div>
-     <b>My Skill & Progamming Laguages</b>
+     <b>My Skill & Programming Laguages</b>
      <div>
      </div>
      <b>Frontend</b></br>
